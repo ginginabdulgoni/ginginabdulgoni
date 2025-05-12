@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hai, Selamat Datang di Profil GitHub Saya 👋
 
-<!--
-**ginginabdulgoni/ginginabdulgoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya **Gingin Abdul Goni**, seorang pengembang perangkat lunak yang suka sekali menciptakan solusi inovatif. Berikut sedikit tentang saya:
+- 🔭 Saat ini saya sedang mengerjakan **billing mywifi**, sebuah platform billing ISP yang otomatis mengurus pendaftaran akun, integrasi pembayaran, dan pelacakan keuangan. Jadi, nggak perlu lagi bingung soal tagihan, semuanya serba otomatis!
+- 🌱 Saya suka belajar untuk meningkatkan kemampuan di bidang yang dijalani.
+- 📫 Mau menghubungi saya? Bisa lewat [email](mailto:ginginabdulgoni@gmail.com) atau instagram [@ginginabdulgoni](https://instagram.com/ginginabdulgoni).
 
-Here are some ideas to get you started:
+### Proyek:
+- **Produksi**: [member.mywifi.web.id](https://member.mywifi.web.id) (Platform Billing ISP)
+- **Sedang Dalam Pengembangan**: **gxradius**, **LinkiVPN**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Jika ingin memberikan tip:
+- [Trakteer](https://trakteer.id/ginginabdulgoni/tip)
+- [PayPal](https://paypal.me/ginginabdulgoni)
