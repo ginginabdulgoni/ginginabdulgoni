@@ -18,7 +18,7 @@ Saya adalah seorang **Software Developer** asal Indonesia yang gemar membangun s
 
 *   🔭 **Saat ini sedang mengerjakan:** [**MyWiFi**](https://member.mywifi.web.id) - Sebuah platform billing ISP all-in-one yang mengotomasi manajemen pelanggan, integrasi *payment gateway*, mikrotik router management, hingga pelacakan laporan keuangan.
 *   🌱 **Terus belajar & bereksplorasi:** Go, Laravel, Node.js, Next.js, dan DevOps.
-*   🔨 **Proyek aktif lainnya:** **Weagate**, **Starbox**, **gxradius**, **LinkiVPN**, **GokAChat**
+*   🔨 **Proyek aktif lainnya:** [**TempatUMKM**](https://tempatumkm.com) (Platform e-commerce & manajemen untuk UMKM), **Weagate**, **Starbox**, **gxradius**, **LinkiVPN**, **GokAChat**
 *   ☕ **Bahan Bakar Koding:** Kopi & Lofi! 🎵
 
 ---
