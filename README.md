@@ -14,7 +14,9 @@
 
 ### 👨‍💻 Tentang Saya
 
-Saya adalah seorang **Software Developer** asal Indonesia yang gemar membangun sistem otomasi, SaaS, dan infrastruktur backend. Fokus utama saya saat ini adalah mengembangkan platform manajemen ISP.
+Saya adalah seorang **Software Developer** asal Indonesia yang gemar membangun sistem otomasi, SaaS, dan infrastruktur backend. Saya telah menjadi pengembang di **1112 Project** sejak 2020 dan bekerja sama dengan beberapa ISP di Indonesia. Anda dapat melihat portofolio proyek saya selengkapnya di [**1112-project.com**](https://1112-project.com).
+
+Fokus utama saya saat ini adalah mengembangkan platform manajemen ISP dan berbagai solusi inovatif lainnya.
 
 *   🔭 **Saat ini sedang mengerjakan:** [**MyWiFi**](https://member.mywifi.web.id) - Sebuah platform billing ISP all-in-one yang mengotomasi manajemen pelanggan, integrasi *payment gateway*, mikrotik router management, hingga pelacakan laporan keuangan.
 *   🌱 **Terus belajar & bereksplorasi:** Go, Laravel, Node.js, Next.js, dan DevOps.
