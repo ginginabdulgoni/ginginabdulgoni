@@ -17,8 +17,8 @@
 Saya adalah seorang **Software Developer** asal Indonesia yang gemar membangun sistem otomasi, SaaS, dan infrastruktur backend. Fokus utama saya saat ini adalah mengembangkan platform manajemen ISP.
 
 *   🔭 **Saat ini sedang mengerjakan:** [**MyWiFi**](https://member.mywifi.web.id) - Sebuah platform billing ISP all-in-one yang mengotomasi manajemen pelanggan, integrasi *payment gateway*, mikrotik router management, hingga pelacakan laporan keuangan.
-*   🌱 **Terus belajar & bereksplorasi:** Laravel, Node.js, Next.js, Infrastruktur AI (seperti OpenClaw), dan DevOps.
-*   🔨 **Proyek aktif lainnya:** **gxradius**, **LinkiVPN**, **GokAChat**
+*   🌱 **Terus belajar & bereksplorasi:** Go, Laravel, Node.js, Next.js, dan DevOps.
+*   🔨 **Proyek aktif lainnya:** **Weagate**, **Starbox**, **gxradius**, **LinkiVPN**, **GokAChat**
 *   ☕ **Bahan Bakar Koding:** Kopi & Lofi! 🎵
 
 ---
@@ -26,12 +26,13 @@ Saya adalah seorang **Software Developer** asal Indonesia yang gemar membangun s
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a>
+  <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/></a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
   <a href="https://php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
@@ -48,21 +49,11 @@ Saya adalah seorang **Software Developer** asal Indonesia yang gemar membangun s
 
 ---
 
-### 🎮 Mari Istirahat Sejenak! (Main Ular)
-
-Main game ular yang otomatis mengonsumsi contributions graph saya:
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ginginabdulgoni/ginginabdulgoni/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ### ☕ Support My Work
 
-Jika proyek open source saya atau tulisan saya membantu Anda, traktir saya segelas kopi:
+Jika proyek saya atau tulisan saya membantu Anda, traktir saya segelas kopi:
 
-<a href="https://trakteer.id/ginginabdulgoni/tip" target="_blank"><img src="https://tecdn.b-cdn.net/img/Photos/new-templates/bootstrap-badges/trakteer.png" alt="Trakteer" height="40" onerror="this.onerror=null; this.src='https://cdn.trakteer.id/images/embed/trbtn-red-1.png';"></a>
+<a href="https://trakteer.id/ginginabdulgoni/tip" target="_blank"><img src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" alt="Trakteer" height="40"></a>
 <a href="https://paypal.me/ginginabdulgoni" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" alt="PayPal" height="40"></a>
 
 <br/>
